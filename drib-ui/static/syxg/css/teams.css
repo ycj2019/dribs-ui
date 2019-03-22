@@ -1,0 +1,68 @@
+
+
+.outline{
+	background: #eee;
+	padding: 20px 0;
+}
+.outline h1{
+	font-size: 30px;
+	line-height: 80px;
+	text-align: center;
+	font-weight: normal;
+	color: #303133;
+}
+.outline i{
+	font-style: normal;
+	display: block;
+	font-size: 20px;
+	line-height: 50px;
+	text-align: center;
+	padding: 0 150px;
+	color: #606266;
+}
+.outline-table{
+	margin: 20px auto;
+}
+.outline-table tr{
+	line-height: 40px;
+}
+.outline-table td b{
+	text-align: right;
+	display: inline-block;
+	color: #006eb0;
+	width:180px;
+}
+.outline-table td span{
+	padding: 0 20px;
+}
+.tuandui{
+	font-size: 26px;
+	line-height: 50px;
+	padding-left: 20px;
+	color: #006eb0;
+	padding-top: 30px;
+}
+.teams{
+	/*display: flex;*/
+}
+.tea{
+	width: auto;
+	padding-left: 130px;
+}
+.tea span{
+	display: block;
+}
+.tea img{
+	display: block;
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+	background: linear-gradient(#006eb0,#00a9db,#395ecb);
+	margin: 10px;
+}
+.rig{
+}
+
+.tea p{
+	text-indent: 20px;
+}
